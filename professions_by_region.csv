@@ -1,0 +1,31 @@
+region,profession,count,latitude,longitude,salary,demand
+Москва,Software Engineer,100,55.7558,37.6176,120000,high
+Saint Petersburg,Software Engineer,80,59.9343,30.3351,110000,medium
+Novosibirsk,Software Engineer,50,55.0084,82.9357,100000,low
+Yekaterinburg,Software Engineer,40,56.8389,60.6057,95000,high
+Республика Татарстан,Software Engineer,30,55.7961,49.1063,90000,medium
+Chelyabinsk,Software Engineer,20,55.1604,61.4021,85000,low
+Vladivostok,Software Engineer,10,43.1734,132.0199,80000,high
+Krasnoyarsk,Software Engineer,5,56.0153,92.8932,75000,medium
+Kaliningrad,Software Engineer,3,54.7104,20.4522,70000,low
+Omsk,Software Engineer,2,54.9885,73.3242,65000,high
+Москва,Doctor,120,55.7558,37.6176,150000,medium
+Saint Petersburg,Doctor,100,59.9343,30.3351,140000,low
+Novosibirsk,Doctor,80,55.0084,82.9357,130000,high
+Yekaterinburg,Doctor,60,56.8389,60.6057,120000,medium
+Республика Татарстан,Doctor,50,55.7961,49.1063,110000,low
+Chelyabinsk,Doctor,40,55.1604,61.4021,100000,high
+Vladivostok,Doctor,30,43.1734,132.0199,90000,medium
+Krasnoyarsk,Doctor,20,56.0153,92.8932,80000,low
+Kaliningrad,Doctor,10,54.7104,20.4522,70000,high
+Omsk,Doctor,5,54.9885,73.3242,60000,medium
+Москва,Teacher,150,55.7558,37.6176,100000,low
+Saint Petersburg,Teacher,130,59.9343,30.3351,90000,high
+Novosibirsk,Teacher,100,55.0084,82.9357,80000,medium
+Yekaterinburg,Teacher,80,56.8389,60.6057,70000,low
+Республика Татарстан,Teacher,70,55.7961,49.1063,60000,high
+Chelyabinsk,Teacher,60,55.1604,61.4021,55000,medium
+Vladivostok,Teacher,50,43.1734,132.0199,50000,low
+Krasnoyarsk,Teacher,40,56.0153,92.8932,45000,high
+Kaliningrad,Teacher,30,54.7104,20.4522,40000,medium
+Omsk,Teacher,20,54.9885,73.3242,35000,low
